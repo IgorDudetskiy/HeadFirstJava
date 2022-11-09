@@ -1,0 +1,4 @@
+Atlantic/Ocean/5/80
+Dnipro/River/4/84
+Black/Sea/6/120
+Udy/River/2/30
